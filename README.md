@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lork27&label=Profile%20views&color=0e75b6&style=flat" alt="lork27" /> </p>
 
 - 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
-- 🔭 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
+- 🔭 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
 - 🌋 Born in Madrid, Spain. Land of tortilla and paella :es:
 <br>
 
