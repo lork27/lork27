@@ -7,7 +7,7 @@
 - 🌋 Born in Madrid, Spain. Land of tortilla and paella :es:
 <br>
 
-<img src="https://i.imgur.com/RfDPqJX.gif" width="950" height="470" />
+<img src="https://i.imgur.com/RfDPqJX.gif" width="800" height="450" />
 
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
@@ -46,18 +46,3 @@
 </p>
 
 ---
-
-<!--
-**luisobregon21/luisobregon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
