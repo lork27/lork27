@@ -19,7 +19,7 @@ I’m currently on my **Third thrimester of my foundation year @holbertonschoolP
 
 <img src="https://img.shields.io/badge/-C -659ad2?style=flat&logo=c%2B%2B&"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"> 
 <img src="https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=javascript">
-<img src="https://img.shields.io/badge/-MySQL-f0ce92?style=flat&logo=mysql">
+<img src="https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VScode-007ACC?style=flat&logo=VISUALSTUDIOCODE">
