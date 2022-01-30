@@ -11,7 +11,7 @@ I have a burning passion about anything related to computing, space exploration 
 <br />
 <br />
 
-I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
+I’m currently on my **third trimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
 
 <br />
 <br />
