@@ -6,12 +6,15 @@
 <img align="right" src="https://i.imgur.com/RfDPqJX.gif" width="500" height="281" />
 
 <h3 align="center">I'm an aspiring software engineer, ready to learn</h3>
-
-<br>
+<br />
 I have a burning passion about anything related to computing. I love solving problems, learning everyday and working with others.
+<br />
 <br />
 
 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
+
+<br />
+<br />
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
