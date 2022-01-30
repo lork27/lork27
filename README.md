@@ -5,7 +5,7 @@
 </h3>
 <img align="right" src="https://i.imgur.com/RfDPqJX.gif" width="500" height="281" />
 
-<h3 align="center">I'm an aspiring software engineer, ready to learn</h3>
+<h3 align="center">I'm a software engineer, ready to learn every day!</h3>
 <br />
 I have a burning passion about anything related to computing, space exploration and VR/AR. I love solving problems, learning everyday and working with others.
 <br />
