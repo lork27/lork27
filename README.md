@@ -45,3 +45,5 @@ I’m currently on my **Third thrimester of my foundation year @holbertonschoolP
 |[Monty](https://github.com/lork27/monty) | Stacks, Queues - LIFO, FIFO |
 |[AirBnB - The Console](https://github.com/lork27/AirBnB_clone_2)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
 <br />
+
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lork27&show_icons=true&locale=en&layout=compact&theme=radical" alt="lork27" width=400 height=180/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lork27&show_icons=true&theme=radical" alt="lork27" width=450 height=180/></p>
