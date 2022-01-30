@@ -38,11 +38,3 @@
 | [ holbertonschool-system_engineering-devops](https://github.com/lork27/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 
 <br />
-
-### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-<p align="center">
-	<a href="https://github.com/lork27"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 50px></a>
-	<a href="https://www.linkedin.com/in/guillermo-lorca-lamadrid-a875abab/"><img src="https://www.takefiveconsulting.com/wp-content/uploads/2018/10/LinkedIn-logo.png" alt="LinkedIn" width = 50px></a>
-</p>
-
----
