@@ -24,7 +24,11 @@ I’m currently on my **Third thrimester of my foundation year @holbertonschoolP
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VScode-007ACC?style=flat&logo=VISUALSTUDIOCODE">
 <img src="http://img.shields.io/badge/-React-purple?style=flat&logo=REACT">
-<img src="http://img.shields.io/badge/-FLASK-red?style=flat&logo=FLASK">
+<img src="http://img.shields.io/badge/-Flask-red?style=flat&logo=FLASK">
+<img src="http://img.shields.io/badge/-Docker-112030?style=flat&logo=DOCKER">
+<img src="http://img.shields.io/badge/-Nginx-0c3611?style=flat&logo=NGINX">
+<img src="http://img.shields.io/badge/-Linux-black?style=flat&logo=LINUX">
+
 
 
 
