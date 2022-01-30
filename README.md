@@ -3,16 +3,15 @@
 <a href="https://docs.google.com/document/d/1wvjYy02Inm4PZBOge_jW2cLoRVQUP5lo/edit?usp=sharing&ouid=103833059908245163410&rtpof=true&sd=true"><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/guillermo-lorca-lamadrid-a875abab/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
+<img align="right" src="https://i.imgur.com/RfDPqJX.gif" width="500" height="281" />
 
 <h3 align="center">I'm an aspiring software engineer, ready to learn</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lork27&label=Profile%20views&color=0e75b6&style=flat" alt="lork27" /> </p>
 
 - 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
 - 🔭 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
 - 🌋 Born in Madrid, Spain. Land of tortilla and paella :es:
 <br>
 
-<img src="https://i.imgur.com/RfDPqJX.gif" width="800" height="450" />
 
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
@@ -31,10 +30,6 @@
 </br>
 
 ---
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lork27&bg_color=000000&color=4fff67&line=4fff67&point=fffff&area=true&hide_border=true)  
-
-
 
 | Repository | Description |
 | --- | --- |
