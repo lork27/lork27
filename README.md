@@ -7,7 +7,7 @@
 
 <h3 align="center">I'm an aspiring software engineer, ready to learn</h3>
 <br />
-I have a burning passion about anything related to computing. I love solving problems, learning everyday and working with others.
+I have a burning passion about anything related to computing, space exploration and VR/AR. I love **solving problems, learning everyday and working with others**.
 <br />
 <br />
 
