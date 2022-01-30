@@ -34,7 +34,7 @@ I’m currently on my **Third thrimester of my foundation year @holbertonschoolP
 | [ holbertonschool-higher_level_programming](https://github.com/lork27/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
 | [ holbertonschool-low_level_programming](https://github.com/lork27/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ holbertonschool-system_engineering-devops](https://github.com/lork27/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-<h3 align="center"><br>Major projects worked on, in school in order:</h3> 
+<h3 align="center"><br>Major projects I worked on at school, in order:</h3> 
   
 | Project name | Description |
 | --- | --- |
