@@ -50,4 +50,4 @@ I’m currently on my **third trimester of my foundation year @holbertonschoolPR
 |[AirBnB - The Console](https://github.com/lork27/AirBnB_clone_2)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
 <br />
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lork27&show_icons=true&locale=en&layout=compact&theme=radical" alt="lork27" width=370 height=180/> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lork27&show_icons=true&theme=radical" alt="lork27" width=400 height=180/></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lork27&show_icons=true&locale=en&layout=compact&theme=radical" alt="lork27" width=400 height=180/> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lork27&show_icons=true&theme=radical" alt="lork27" width=460 height=180/></p>
