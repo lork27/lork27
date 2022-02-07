@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm Guillermo Lorca <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:glorcalamadrid@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
-<a href="https://docs.google.com/document/d/1wvjYy02Inm4PZBOge_jW2cLoRVQUP5lo/edit?usp=sharing&ouid=103833059908245163410&rtpof=true&sd=true"><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
+<a href="./resume.pdf"><img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/guillermo-lorca-lamadrid-a875abab/"><img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge"></a>
 </h3>
 <img align="right" src="https://i.imgur.com/RfDPqJX.gif" width="500" height="281" />
