@@ -10,8 +10,7 @@
 I have a burning passion about anything related to computing, space exploration and VR/AR. I love solving problems, learning everyday and working with others.
 <br />
 <br />
-
-I’m currently on my **third trimester of my foundation year @holbertonschoolPR working as a tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
+I've recently graduated from Holberton's foundation year and I've also worked as a student tutor there. Now I'm ready for my next step as a Software Developer <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
 
 <br />
 <br />
