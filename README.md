@@ -43,7 +43,7 @@ I've recently graduated from Holberton's foundation year and I've also worked as
   
 | Project name | Description |
 | --- | --- |
-|[DTL](https://github.com/lork27/dtl-client)| A fully funtional social network that connects students and tutors based on their interests |
+|[DTL](https://github.com/lork27/dtl-client)| A fully funtional social network that connects two types of users, students and tutors based on their interests. Features includes, login and register as either Tutor or Student, match system between users, Students and Tutors can review each other and a chat sytem between connected users |
 |[Printf](https://github.com/lork27/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/luisobregon21/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/lork27/monty) | Stacks, Queues - LIFO, FIFO |
