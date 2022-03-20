@@ -43,11 +43,12 @@ I've recently graduated from Holberton's foundation year and I've also worked as
   
 | Project name | Description |
 | --- | --- |
-|[DTL](https://github.com/lork27/dtl-client)| A fully funtional social network that connects two types of users, students and tutors based on their interests. Features includes, login and register as either Tutor or Student, match system between users, Students and Tutors can review each other, user profile with the ability to upload user avatar, portfolio pictures, information, location etc and a chat sytem between connected users |
+
 |[Printf](https://github.com/lork27/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/luisobregon21/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/lork27/monty) | Stacks, Queues - LIFO, FIFO |
 |[AirBnB - The Console](https://github.com/lork27/AirBnB_clone_2)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
+|[DTL](https://github.com/lork27/dtl-client)| A fully funtional social network that connects two types of users, students and tutors based on their interests. Features includes, login and register as either Tutor or Student, match system between users, Students and Tutors can review each other, user profile with the ability to upload user avatar, portfolio pictures, information, location etc and a chat sytem between connected users |
 <br />
 
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lork27&show_icons=true&locale=en&layout=compact&theme=radical" alt="lork27" width=360 height=180/> <img align="right" src="https://github-readme-stats.vercel.app/api?username=lork27&show_icons=true&theme=radical" alt="lork27" width=430 height=180/></p>
